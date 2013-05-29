@@ -1,0 +1,8 @@
+The animal at 1 is python [2nd in list)
+The 3rd animal animal is peacock [2]
+the 1st animal is bear [0]
+the animal at 3 is kangaroo [3] (4th in list)
+The 5th animal is whale [4]
+The animal at 2 is peacock (3rd in list)
+The 6th animal is platypus [5]
+The animal at 4 is whale (5th animal)
